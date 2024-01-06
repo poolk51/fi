@@ -36,8 +36,7 @@ const handleKeyDown = (event)=>{
       case 'gray': return setDivColor("gray")
    }
 
-   
-  
+ 
 }
 
   return <>
