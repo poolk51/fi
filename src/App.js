@@ -40,9 +40,6 @@ const handleKeyDown = (event)=>{
   
 }
 
-
-
-
   return <>
   <input type='text' onKeyDown={handleKeyDown}/>
   {storeRender}
